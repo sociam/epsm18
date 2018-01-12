@@ -1,4 +1,4 @@
-# mobilevis.github.io
+# Workshop for Ethics and Privacy for Social Machines, Social Groups and Aggreations workshop
 
 ## Configuring site properties
 
@@ -6,7 +6,7 @@ Site metadata is in [_config.yml](_config.yml)
 
 ## Editing the index and about pages
 
-You can edit the [index.md](index.md) amd [about.md](about.md) pages here and changes will be reflected on [mobilevis.github.io](https://mobilevis.github.io/).
+You can edit the [index.md](index.md) amd [about.md](about.md) pages here and changes will be reflected on [sociam.github.io/epsm_workshop_18](https://sociam.github.io/epsm_workshop_18).
 
 ## Adding posts
 
@@ -25,7 +25,7 @@ Add images to [assets](assets/). You can also add remote iframe content to a pag
 To edit the site remotely, open a terminal where you want to work locally and follow these instructions:
 
 0. Ensure that git and ruby are installed.
-1. Clone the repository: `git clone https://github.com/mobilevis/mobilevis.github.io.git` and `cd mobilevis.github.io.git`.
+1. Clone the repository: `git clone https://github.com/sociam/epsm_workshop_18.git` and `cd epsm_workshop_18.git`.
 2. Install bundler: `gem install bundler`.
 3. Install the bundle: `bundle install`; Update as needed: `bundle update`.
 4. Run locally at [localhost:4000](http://localhost:4000/): `bundle exec jekyll serve`
