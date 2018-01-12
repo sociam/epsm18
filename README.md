@@ -8,10 +8,6 @@ Site metadata is in [_config.yml](_config.yml)
 
 You can edit the [index.md](index.md) amd [about.md](about.md) pages here and changes will be reflected on [sociam.github.io/epsm_workshop_18](https://sociam.github.io/epsm_workshop_18).
 
-## Adding posts
-
-Add posts in .md format to the [_posts](_posts) directory. Posts should be named following the `YYYY-MM-DD-post-title.md` convention.
-
 ## Editing the style
 
 Change the style in [assets/main.scss](assets/main.scss).
