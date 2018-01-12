@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
 ---
-<img src="assets/WebSci18-logo.png" title="Ethics and Privacy for Social Machines, Social Groups and Aggregations workshop at WebSci'18"  alt="Ethics and Privacy for Social Machines, Social Groups and Aggregations workshop at WebSci'18" style="width: 100%;"/>
+<img src="assets/WebSci18-logo.png" title="Ethics and Privacy for Social Machines, Social Groups and Aggregations workshop at WebSci'18"  alt="Ethics and Privacy for Social Machines, Social Groups and Aggregations workshop at WebSci'18" style="width: 50%;"/>
 
 Participation is invited to the **Workshop on Ethics and Privacy for Social Machines, Social Groups and Aggregations**, co-located with the [2018 ACM Web Science Conference](/https://websci18.webscience.org), Amsterdam.
 
