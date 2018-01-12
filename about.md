@@ -30,6 +30,7 @@ The expected schedule is as follows:
 | **14.45 - 15.00** 	| *Coffee break*                        
 | **15.00 - 16.00** 	| Closing panel (tbc)
 
+
 ## Keynote speaker
 
 **Professor David De Roure.** David De Roure is Professor of e-Research at the University of Oxford. Focused on advancing digital scholarship, Prof. De Roure works closely with multiple disciplines including social sciences (studying social machines), humanities (computational musicology and experimental humanities), engineering (Internet of Things), and computer science (large scale distributed systems and social computing). He has extensive experience in hypertext, Web Science, Linked Data, and Internet of Things. Drawing on this broad interdisciplinary background he is a frequent speaker and writer on the future of digital scholarship and scholarly communications.
@@ -38,10 +39,12 @@ Prof. De Roure has strategic responsibility for Digital Humanities at Oxford wit
 
 He is a Fellow of the British Computer Society and the Institute of Mathematics and its Applications, a visiting professor at Goldsmiths, University of London, and a Supernumerary Fellow of Wolfson College where he chairs the Digital Research Cluster.
 
+
 ## Location
 Vrije Universiteit Amsterdam, De Boelelaan 1105, 1081 HV Amsterdam.
 
 https://websci18.webscience.org/index.php/how-to-get-at-vu-amsterdam/
+
 
 ## Organisers
 Chair: Kieron O’Hara (Electronics and Computer Science, University of Southampton)
