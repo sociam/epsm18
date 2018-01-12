@@ -1,4 +1,4 @@
-# Workshop for Ethics and Privacy for Social Machines, Social Groups and Aggreations workshop
+# Website for the Ethics and Privacy for Social Machines, Social Groups and Aggreations workshop
 
 ## Configuring site properties
 
