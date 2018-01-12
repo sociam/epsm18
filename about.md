@@ -20,14 +20,14 @@ The goal of the event is to establish some of the ethical and legal parameters o
 The event will be full day, with an open [call for papers](/cfp) , a keynote and a closing panel. 
 The expected schedule is as follows:
 
-09.00-10.00 – registration and coffee
-10.00-11.00 – keynote speaker, David De Roure, University of Oxford “Interdisciplinarity, ethics, and the study of social machines”
-11.00-11.15 – break
-11.15-12.30 – first paper session
-12.30-13.30 – lunch break
-13.30-14.45 – second paper session
-14.45-15.00 – break
-15.00-16.00 – closing panel (tbc)
+- 09.00-10.00 – registration and coffee
+- 10.00-11.00 – keynote speaker, David De Roure, University of Oxford “Interdisciplinarity, ethics, and the study of social machines”
+- 11.00-11.15 – break
+- 11.15-12.30 – first paper session
+- 12.30-13.30 – lunch break
+- 13.30-14.45 – second paper session
+- 14.45-15.00 – break
+- 15.00-16.00 – closing panel (tbc)
 
 
 ## Keynote speaker
