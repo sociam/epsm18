@@ -1,40 +1,33 @@
 ---
 layout: page
-title: Call For Participation
+title: Call For Papers
 slug: CFP
 permalink: /cfp/
 ---
 
-With an increasing use of mobile devices in everyday life, it is important to understand how to design data visualizations for small displays. A nuanced understanding is especially important since existing guidelines for visualization and data interaction design do not transfer well to mobile devices. This one-day workshop aims to bring together visualization researchers and practitioners from application domains, to share experiences, identify open problems, and explore the future of mobile visualization. We will share academic and application-related outputs, and conduct hands-on design and brainstorming activities. 
+We call for papers for this workshop. Our aim is to promote dialogue between disciplines, and particularly the application of moral philosophical, critical and legal principles in the context of social relations on the World Wide Web, in order to support the construction of an ethical framework for Web Science. The intended audience includes those with an interest in ethical issues pertaining to the Web, including practitioners in areas such as healthcare, law, communications/media and social science whose work poses ethical challenges from which Web Scientists can learn.
 
-We solicit **4-6 page workshop papers** excluding references (using the **[CHI Extended Abstracts format](https://chi2018.acm.org/chi-proceedings-format/)**) in the following contribution types:
-- **Research papers** describing existing mobile data visualizations or early concepts;
-- **Position papers** discussing existing & future designs and processes;
-- **Demonstrations** of prototypes and completed projects.
+Papers will be favoured which use a multidisciplinary framework. We are particularly interested in detailed case studies, philosophical frameworks, legal analyses, policy studies and comparative analyses. We will favour papers describing original research, but will also consider novel position papers and works-in-progress. We will want to see evidence that the approaches reported (a) address a specific and genuine problem in this area, and (b) have implications for the future of the World Wide Web. We will give priority to full papers, but also welcome vision papers, white papers and works-in-progress, which will be included.
 
-Submissions should cover contributions on visualizing data on various mobile devices (e.g., tablets, smart phones/watches, wearable devices, and tiny screens) addressing the following topics: 
-### Important workshop topics:
-- Visual encodings
-- Personal data visualization 
-- Glanceable visualization
-- Responsive visualization
-- Data-driven storytelling
-- Natural and multi-modal interaction
-- Visualization tasks
-- Visualization authoring
-- Libraries and toolkits
-- Evaluation methods
-- Best practices and pitfalls in the design process
+Relevant topics include (but are not limited to):
+•	How feasible is it to construct ethical principles in this space, or will they always be derivative from principles which apply to individuals?
+•	Are there simple ideas that can carry over from existing ethical frameworks, such as intergenerational justice or rights pertaining to minorities?
+•	Do the three types of group outlined here face similar, or different challenges?
+•	Are these groups at the right level of abstraction for discussing Web-based ethical issues?
+•	What methodological problems are posed for those researching into such groups (and how may they be resolved)?
+•	How should access to data be regulated?
+•	What role is there for Web Observatories?
+•	How do algorithmic biases affect group composition or intra-group relations?
+•	Who is accountable for harms resulting from an algorithm’s application to a group?
+•	Can we create protections analogous to data protection without personal data or PII?
+•	Who is to represent a particular group if it is to be defended against a possible harm?
 
-Please submit a paper to the **[EasyChair system](https://easychair.org/conferences/?conf=mobilevis2018)** ([https://easychair.org/conferences/?conf=mobilevis2018](https://easychair.org/conferences/?conf=mobilevis2018)).
+Papers may be up to 6 pages, written using the ACM double column template available from the [ACM website](https://www.acm.org/publications/proceedings-template), selecting the SIGCONF proceedings template. 
 
-We will select submissions based on a number of criteria, including originality or controversy of the paper, the complementary nature of the authors' research background, and the quality of the authors' previous work related to the workshop topic.
+Please submit a paper via the **[EasyChair system](https://easychair.org/conferences/?conf=epsm18)** ([https://easychair.org/conferences/?conf=epsm18](https://easychair.org/conferences/?conf=epsm18)).
 
-At least one author of each accepted paper must attend the workshop and all workshop participants must register not only for the workshop but also for at least one day of the **[2018 ACM CHI conference](https://chi2018.acm.org/)**. 
-
-### Important Dates:
-- **January, 2018**: The **[submission portal](https://easychair.org/conferences/?conf=mobilevis2018)** will open. 
-- **Friday, February 2, 2018**: Workshop paper deadline
-- **Thursday, February 22, 2018**: Notification of acceptance
-- **TBA**: Conference early registration deadline
-- **Saturday, April 21, 2018**: The workshop will take place as part of the **[2018 ACM CHI conference](https://chi2018.acm.org/)** in Montréal, Canada.
+### Key dates:
+- **Thursday, February 25, 2018**: Paper submission
+- **Friday, March 30, 2018**: Notification of acceptance
+- **Friday, April 20, 2018**: Camera-ready versions
+- **Sunday, May 27, 2018**: The workshop will take place as part of the **[2018 ACM Web Science conference](https://websci18.webscience.org)** in Amsterdam, The Netherlands.
