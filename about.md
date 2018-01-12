@@ -16,7 +16,7 @@ The goal of the event is to establish some of the ethical and legal parameters o
 
 
 ## Schedule
-The event will be full day, with an open [call for papers](/cfp) , a keynote and a closing panel. 
+The event will be full day, with an open [call for papers](cfp.md), a keynote and a closing panel. 
 The expected schedule is as follows:
 
 | **Time** 	          | **Activity**            	                
