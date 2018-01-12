@@ -4,9 +4,9 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
 ---
-<img src="assets/WebSci18-logo.png" title="Ethics and Privacy for Social Machines, Social Groups and Aggregations workshop at WebSci'18"  alt="Ethics and Privacy for Social Machines, Social Groups and Aggregations workshop at WebSci'18" style="width: 50%;"/>
+<img src="assets/WebSci18-logo.png" title="Ethics and Privacy for Social Machines, Social Groups and Aggregations workshop at WebSci'18"  alt="Ethics and Privacy for Social Machines, Social Groups and Aggregations workshop at WebSci'18" style="width: 50%; margin: auto"/>
 
-Participation is invited to the **Workshop on Ethics and Privacy for Social Machines, Social Groups and Aggregations**, co-located with the [2018 ACM Web Science Conference](/https://websci18.webscience.org), Amsterdam.
+Participation is invited to the **Workshop on Ethics and Privacy for Social Machines, Social Groups and Aggregations** on May 27th, co-located with the [2018 ACM Web Science Conference](/https://websci18.webscience.org), Amsterdam.
 
 Emerging technologies of data analytics and digital networks are developing and achieving scale rapidly, often thanks to the affordances of the World Wide Web and mobile devices. Such technologies pose important **ethical** issues, ranging from **privacy**, to their potential to undermine individual **autonomy**, to the difficulty of apportioning **accountability** for their real-world effects.
 
