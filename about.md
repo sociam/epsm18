@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-## Programme
 Many types of group function on the Web, and differ in respect of the relationship between them and their members. Three prominent types of group, all with different ethical implications are:
 
 - Artificial groups created by classification algorithms and big data analytics. A member of such a group may be unaware of the fact, while the ML algorithms may not easily provide explanations.
