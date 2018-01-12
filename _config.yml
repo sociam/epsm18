@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: WebSci\'18 Workshop: Ethics and Privacy for Social Machines, Social Groups and Aggregations
+title: "WebSci'18 Workshop: Ethics and Privacy for Social Machines, Social Groups and Aggregations"
 email: reuben.binns@cs.ox.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   A workshop for the ACM Web Science Conference, Amsterdam, 27th May, 2018
