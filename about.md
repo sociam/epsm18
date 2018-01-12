@@ -49,10 +49,10 @@ https://websci18.webscience.org/index.php/how-to-get-at-vu-amsterdam/
 ## Organisers
 Chair: Kieron O’Hara (Electronics and Computer Science, University of Southampton)
 
-Reuben Binns (University of Oxford)
-Claudia Pagliari (University of Edinburgh)
-Anni Rowland-Campbell (Intersticia)
-Linnet Taylor (Tilburg Institute for Law, Technology and Society, University of Tilburg)
-Thanassis Tiropanis (University of Southampton)
-Max Van Kleek (Dept. of Computer Science, University of Oxford)
-Jun Zhao (University of Oxford)
+- Reuben Binns (University of Oxford)
+- Claudia Pagliari (University of Edinburgh)
+- Anni Rowland-Campbell (Intersticia)
+- Linnet Taylor (Tilburg Institute for Law, Technology and Society, University of Tilburg)
+- Thanassis Tiropanis (University of Southampton)
+- Max Van Kleek (Dept. of Computer Science, University of Oxford)
+- Jun Zhao (University of Oxford)
