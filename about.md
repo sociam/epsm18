@@ -4,56 +4,52 @@ title: About
 permalink: /about/
 ---
 
-Researchers across several HCI-related communities have investigated various aspects of data visualization on mobile devices. Yet, we are far from leveraging the full potential of mobile devices in satisfying the growing demand for visual access to data on small displays. As mobile visualization becomes more common and new mobile device form factors and hardware capabilities emerge in the coming years, it is timely to reflect on what has been discovered to date and to look into the future. This workshop will bring together researchers, designers, and practitioners from relevant application and research fields, including visualization, personal informatics, and data journalism. Our goal is to define a research agenda for mobile data visualization as well as to collect and propagate practical guidance for mobile visualization designers.
+## Programme
+Many types of group function on the Web, and differ in respect of the relationship between them and their members. Three prominent types of group, all with different ethical implications are:
 
-## Workshop Organizers
+- Artificial groups created by classification algorithms and big data analytics. A member of such a group may be unaware of the fact, while the ML algorithms may not easily provide explanations.
+- Social networks of which its members may generally accept and expect membership. These might be demographic groups, or people linked by a social network site.
+- Social machines. These are groups linked by networked technologies that are connected with some kind of function. Such computer-mediated interaction have enabled communities to provide a social response to modern problems of **crime**, such as BlueServo (http://www.blueservo.net/), **transport**, such as Waze (https://www.waze.com/), **health**, such as PatientsLikeMe (https://www.patientslikeme.com/), and **citizen science**, such as Zooniverse (https://www.zooniverse.org/).
 
-<img src="../assets/organizers.png" title="Workshop Organizers (Left to Right): Bongshin Lee, Matthew Brehmer, Petra Isenberg, Eun Kyoung Choe, Ricardo Langer, and Raimund Dachselt"  alt="Workshop Organizers (Left to Right): Bongshin Lee, Matthew Brehmer, Petra Isenberg, Eun Kyoung Choe, Ricardo Langer, and Raimund Dachselt" style="width: 100%;"/>
+Each of these types of Web-based social aggregation stands to benefit from technological developments, but also faces challenges. The standard ethical toolbox of data protection, consent, transparency and accountability may not provide all the protections that are required. Furthermore, groups of all types are composed and recomposed constantly, as new members join and old ones leave (often without their knowledge); whereas the individual is stable enough to ground legal and ethical principles, the group may not be.
 
-**(L to R)**: *Bongshin Lee, Matthew Brehmer, Petra Isenberg, Eun Kyoung Choe, Ricardo Langner, and Raimund Dachselt*.
+The goal of the event is to establish some of the ethical and legal parameters of this area, and to consider how Web Science techniques can be brought to bear.
 
-Our organization team is comprised of members having several relevant qualifications that will ensure a successful workshop. The core background of our team members range from visualization research (Brehmer, Isenberg, & Lee) to HCI (Choe, Dachselt, Langner, & Lee) to UbiComp (Choe). All team members have previously organized industry and academic workshops in several venues, and have extensive experience reviewing publications for international conferences, workshops, and symposia. 
 
-<i class="fa fa-user" aria-hidden="true"></i> **[Bongshin Lee](https://www.microsoft.com/en-us/research/people/bongshin/)** ([@bongshin](https://twitter.com/bongshin)) is a Senior Researcher at Microsoft Research. She explores innovative ways to enable people to create visualizations, interact with their data, and share data-driven stories. She has been recently focusing on helping people collect & explore the data about themselves, and share insights with others by leveraging visualizations. She earned her Ph.D. in Computer Science from University of Maryland at College Park in 2006. 
+## Schedule
+The event will be full day, with an open [call for papers](/cfp) , a keynote and a closing panel. 
+The expected schedule is as follows:
 
-<i class="fa fa-user" aria-hidden="true"></i> **[Matthew Brehmer](https://www.microsoft.com/en-us/research/people/mabrehme/)** ([@mattbrehmer](https://twitter.com/mattbrehmer)) is a Postdoctoral Researcher at Microsoft Research and a representative of the Microsoft Data Journalism Program. His research interests involve designing and evaluating information visualization techniques for storytelling and journalism, considering the perspectives of both the audience or information consumer and the author or content creator. He is the co-chair of the [2018 IEEE PacificVis Visual Data Storytelling Contest](http://itolab.is.ocha.ac.jp/pvis2018/#Storytelling_Contest) and the Visualization in Practice event at [IEEE VIS 2018](http://ieeevis.org/year/2018/info/committees/conference-committee).
-He received his Ph.D. in Computer Science from the University of British Columbia in Vancouver in 2016.
+09.00-10.00 – registration and coffee
+10.00-11.00 – keynote speaker, David De Roure, University of Oxford “Interdisciplinarity, ethics, and the study of social machines”
+11.00-11.15 – break
+11.15-12.30 – first paper session
+12.30-13.30 – lunch break
+13.30-14.45 – second paper session
+14.45-15.00 – break
+15.00-16.00 – closing panel (tbc)
 
-<i class="fa fa-user" aria-hidden="true"></i> **[Petra Isenberg](https://petra.isenberg.cc/wiki/pmwiki.php)** ([@dr_pi](https://twitter.com/dr_pi))  is a research scientist at Inria. Prior to joining Inria, Petra received her PhD from the University of Calgary in 2009. Her main research areas are information visualization and visual analytics with a focus on collaborative work scenarios, interaction, and evaluation. She is interested in exploring how people can most effectively analyze data sets on novel display technology such as small touch-screens, wall displays, or tabletops. 
 
-<i class="fa fa-user" aria-hidden="true"></i> **[Eun Kyoung Choe](https://terpconnect.umd.edu/~choe/)** ([@slowalpaca](https://twitter.com/slowalpaca)) is an Assistant Professor in the College of Information Studies at University of Maryland, College Park. She has been examining ways to help people become empowered individuals through fully leveraging their personal data. She has been exploring this topic in various contexts including the Quantified Self movement, sleep, patient-clinician communication, and personal data insights & visualization. She received her Ph.D. in Information Science from University of Washington in 2014.
+## Keynote speaker
 
-<i class="fa fa-user" aria-hidden="true"></i> **[Ricardo Langner](https://imld.de/our-group/team/ricardo-langner/)** ([@riclangner](https://twitter.com/riclangner)) is a Ph.D. student at the Technische Universität Dresden. His research focuses on the combination of multiple displays, such as mobile devices, interactive tabletops, and large shared displays, for information visualization. In particular, he explores new and innovative ways of using mobile devices to support data exploration with multiple coordinated visualization views. He was also a local arrangements co-chair of ACM ITS 2014.
+**Professor David De Roure.** David De Roure is Professor of e-Research at the University of Oxford. Focused on advancing digital scholarship, Prof. De Roure works closely with multiple disciplines including social sciences (studying social machines), humanities (computational musicology and experimental humanities), engineering (Internet of Things), and computer science (large scale distributed systems and social computing). He has extensive experience in hypertext, Web Science, Linked Data, and Internet of Things. Drawing on this broad interdisciplinary background he is a frequent speaker and writer on the future of digital scholarship and scholarly communications.
 
-<i class="fa fa-user" aria-hidden="true"></i> **[Raimund Dachselt](https://imld.de/our-group/team/raimund-dachselt/)** ([@RaimundDachselt](https://twitter.com/RaimundDachselt)) is a full university professor for Computer Science at Technische Universität Dresden and a director of the Interactive Media Lab Dresden. His research focuses on Natural User Interface (NUI) approaches with various input modalities on interactive surfaces and in multi-display environments. His team contributed several solutions applying NUI techniques to the field of Information Visualization and Immersive Analytics. He received his Ph.D. in Computer Science from TU Dresden in 2004.
+Prof. De Roure has strategic responsibility for Digital Humanities at Oxford within The Oxford Research Centre in the Humanities (TORCH). He is a member of Cyber Security Oxford, an Oxford Martin Senior Fellow, and collaborates with the Oxford Internet Institute in Web Science. He was Director of the Oxford e-Research Centre 2012-17. Prior to moving to Oxford in 2010 he was Professor of Computer Science at University of Southampton, where he was Director of the Centre for Pervasive Computing in the Environment. He was closely involved in the UK e-Science programme and from 2009-2013 was the UK National Strategic Director for Digital Social Research for the UK Economic and Social Research Council, and subsequently Strategic Advisor for new and emerging forms of data and real time analytics. 
 
-## Program Committee
+He is a Fellow of the British Computer Society and the Institute of Mathematics and its Applications, a visiting professor at Goldsmiths, University of London, and a Supernumerary Fellow of Wolfson College where he chairs the Digital Research Cluster.
 
-- **Anastasia Bezerianos** (LRI-Université Paris-Sud 11)
-- **Daniel Epstein** (University of Washington)
-- **Pourang Irani** (University of Mantioba)
-- **Steven Drucker** (Microsoft Research)
-- **Niklas Elmqvist** (University of Maryland, College Park)
-- **Matthew Kay** (University of Michigan)
-- **Alark Joshi** (University of San Francisco)
-- **Roman Rädle** (Aarhus University)
-- **Amon Rapp** (University of Torino)
-- **Ramik Sadana** (Uber)
-- **Sebastian Sadowski** (DataDesign Studio Berlin)
-- **Vidya Setlur** (Tableau Software)
-- **John Stasko** (Georgia Institute of Technology) 
+## Location
+Vrije Universiteit Amsterdam, De Boelelaan 1105, 1081 HV Amsterdam.
 
-## Image Credits
+https://websci18.webscience.org/index.php/how-to-get-at-vu-amsterdam/
 
-<img src="../assets/teaser.png" title="Data Visualization on Mobile Devices Workshop"  alt="Data Visualization on Mobile Devices Workshop" style="width: 100%;"/>
+## Organisers
+Chair: Kieron O’Hara (Electronics and Computer Science, University of Southampton)
 
-The image on the left uses two Creative Commons CCBY icons from [The Noun Project](https://thenounproject.com/): "[Sankey Chord](https://thenounproject.com/icon/628599/#)" by [Kirby Wu, TW](https://thenounproject.com/tkirby) (the color was our modification) and "[Phone](https://thenounproject.com/icon/1285473/)" by [novita dian, ID](https://thenounproject.com/novitaastri2011).
-
-The other images originally appeared in papers co-authored by the workshop organizers, from left to right: 
-
-- Jaemin Jo, Sehi L'Yi, Bongshin Lee, and Jinwook Seo. 2017. [TouchPivot: Blending WIMP & Post-WIMP Interfaces for Data Exploration on Tablet Devices](https://doi.org/10.1145/3025453.3025752). In *Proceedings of the 2017 ACM CHI Conference on Human Factors in Computing Systems (CHI)*. [doi: 10.1145/3025453.3025752](https://doi.org/10.1145/3025453.3025752).
-
-- Ricardo Langner, Tom Horak, and Raimund Dachselt. 2018. [VisTiles: Coordinating and Combining Co-located Mobile Devices for Visual Data Exploration](http://dx.doi.org/10.1109/TVCG.2017.2744019). In *IEEE Transactions on Visualization and Computer Graphics (Proceedings of InfoVis 2017)* 24, 1 (2018). [doi: 10.1109/TVCG.2017.2744019](http://dx.doi.org/10.1109/TVCG.2017.2744019).
-
-- Ulrike Kister, Konstantin Klamka, Christian Tominski, and Raimund Dachselt. 2017. [GraSp: Combining Spatially-aware Mobile Devices and a Display Wall for Graph Visualization and Interaction](http://dx.doi.org/10.1111/cgf.13206). In *Computer Graphics Forum* 36, 3 (2017). [doi: 10.1111/cgf.13206](http://dx.doi.org/10.1111/cgf.13206).
-
+Reuben Binns (University of Oxford)
+Claudia Pagliari (University of Edinburgh)
+Anni Rowland-Campbell (Intersticia)
+Linnet Taylor (Tilburg Institute for Law, Technology and Society, University of Tilburg)
+Thanassis Tiropanis (University of Southampton)
+Max Van Kleek (Dept. of Computer Science, University of Oxford)
+Jun Zhao (University of Oxford)
