@@ -13,14 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Data Visualization on Mobile Devices
-email: mobilevisualization@gmail.com
+title: Ethics and Privacy for Social Machines, Social Groups and Aggregations
+email: kmo@ecs.soton.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  A CHI 2018 workshop organized by Bongshin Lee, Matthew Brehmer, Petra Isenberg, Eun Kyoung Choe, Ricardo Langner, and Raimund Dachselt
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: mobilevis
-github_username:  mobilevis
+  A workshop for the ACM Web Science Conference, Amsterdam, 27th May, 2018
+baseurl: "/epsm_workshop_18" # the subpath of your site, e.g. /blog
+url: "https://sociam.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  sociam
 
 # Build settings
 markdown: kramdown
