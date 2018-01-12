@@ -31,3 +31,7 @@ Please submit a paper via the **[EasyChair system](https://easychair.org/confere
 - **Friday, March 30, 2018**: Notification of acceptance
 - **Friday, April 20, 2018**: Camera-ready versions
 - **Sunday, May 27, 2018**: The workshop will take place as part of the **[2018 ACM Web Science conference](https://websci18.webscience.org)** in Amsterdam, The Netherlands.
+
+All deadlines set at midnight Hawaii Standard Time.
+
+The papers will be included in an Events Proceedings, which will be made available online after the conference. All abstracts, papers, posters, etc. from your event will need to be submitted by 31 April in order to be included in these Proceedings.
