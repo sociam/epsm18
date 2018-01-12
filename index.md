@@ -17,4 +17,4 @@ Much ethical reasoning in this space has focused on the effects (particularly ha
 However, in the particular context of the Web and its affordances for data consumers, this leaves a lacuna. Increasingly, the focal point for the technologies is not the individual, but the **crowd** (indeed, this is implicit in their constant concern for scale). They determine types and probabilities; their internal ethical or commercial aim is the consequentialist one of improving the states of aggregates, not individuals. Many of their effects, and many of their risks, are borne by **groups** of individuals, or individuals who have been grouped together by external agents. For example, protecting personal data, while important, may not be the only important aim for regulatory systems of the future.
 
 
-See the **[Call for Papers](cfp)** to get involved.
+See the **[Call for Papers](cfp.md)** to get involved.
