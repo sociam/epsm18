@@ -6,7 +6,7 @@ Site metadata is in [_config.yml](_config.yml)
 
 ## Editing the index and about pages
 
-You can edit the [index.md](index.md) amd [about.md](about.md) pages here and changes will be reflected on [sociam.github.io/epsm_workshop_18](https://sociam.github.io/epsm_workshop_18).
+You can edit the front page, [index.md](index.md), call for papers, [cfp.md](cfp.md) and about [about.md](about.md) pages here and changes will be reflected on [sociam.github.io/epsm_workshop_18](https://sociam.github.io/epsm_workshop_18).
 
 ## Editing the style
 
