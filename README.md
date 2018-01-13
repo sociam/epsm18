@@ -1,5 +1,8 @@
 # Website for the Ethics and Privacy for Social Machines, Social Groups and Aggreations workshop
 
+## Acknowledgements
+The site (including the basics of this README) was forked from https://mobilevis.github.io
+
 ## Configuring site properties
 
 Site metadata is in [_config.yml](_config.yml)
