@@ -34,4 +34,4 @@ Please submit a paper via the **[EasyChair system](https://easychair.org/confere
 
 All deadlines set at midnight Hawaii Standard Time.
 
-The papers will be included in an Events Proceedings, which will be made available online after the conference. All abstracts, papers, posters, etc. from your event will need to be submitted by 31 April in order to be included in these Proceedings.
+The papers will be included in an Events Proceedings, which will be made available online after the conference.
