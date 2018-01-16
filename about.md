@@ -43,7 +43,7 @@ He is a Fellow of the British Computer Society and the Institute of Mathematics 
 ## Location
 Vrije Universiteit Amsterdam, De Boelelaan 1105, 1081 HV Amsterdam.
 
-https://websci18.webscience.org/index.php/how-to-get-at-vu-amsterdam/
+[https://websci18.webscience.org/index.php/how-to-get-at-vu-amsterdam/](https://websci18.webscience.org/index.php/how-to-get-at-vu-amsterdam/)
 
 
 ## Organisers
