@@ -32,7 +32,7 @@ Please submit a paper via the **[EasyChair system](https://easychair.org/confere
 
 ### Key dates:
 - **~~Sunday, February 25~~ REVISED: Sunday, March 11, 2018**: Paper submission
-- **Friday, March 30, 2018**: Notification of acceptance
+- **~~Friday, March 30, 2018~~REVISED: Friday, April 6, 2018**: Notification of acceptance
 - **Friday, April 20, 2018**: Camera-ready versions
 - **Sunday, May 27, 2018**: The workshop will take place as part of the **[2018 ACM Web Science conference](https://websci18.webscience.org)** in Amsterdam, The Netherlands.
 
