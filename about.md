@@ -23,25 +23,25 @@ The expected schedule is as follows:
 |-----------------------|-------------------------------------	
 | **09.00 - 10.00** 	  | Registration and coffee
 | **10.00 - 11.00** 	  | Keynote speaker, David De Roure, University of Oxford “Interdisciplinarity, ethics, and the study of social machines”
-| **11.00 - 12.10** 	  | Paper session
+| **11.00 - 12.10** 	  | Paper session.
 
-Kieron O’ Hara, University of Southampton / Winchester. “Social Machines and the Virtues”
+| 	  | Kieron O’ Hara, University of Southampton / Winchester. “Social Machines and the Virtues”
 
-Claudia Pagliari, University of Edinburgh, TBD
+| 	  | Claudia Pagliari, University of Edinburgh, TBD
 
-Reuben Binns, University of Oxford. “Is There Any Room for Group Privacy?”
+| 	  | Reuben Binns, University of Oxford. “Is There Any Room for Group Privacy?”
 
-Aastha Madaan, University of Southampton. “Exemplars of Cyberphysical Social Machines”
+| 	  | Aastha Madaan, University of Southampton. “Exemplars of Cyberphysical Social Machines”
 
-Q&A / Open Discussion with the speakers
+| 	  | Q&A / Open Discussion with the speakers
                         
 | **12.10 - 12.30** 	  | Group planning the afternoon session: Identify 3-4 main themes or topics for discussion for afternoon discussion break-outs
 | **12.30 - 14.00** 	  | *Lunch*                              	
 | **14:00 - 15.30** 	  | Working groups around themes/topics.  Consider the following questions for discussion:
-1. Characterising the problem.  Who are all the stakeholders involved; who does it affect most and how?
-2. How problems or concerns might start to be addressed.
-3. Collaboration opportunities
-Aim to produce 1 slide to present major points.
+| 	  |  1. Characterising the problem.  Who are all the stakeholders involved; who does it affect most and how?
+| 	  |  2. How problems or concerns might start to be addressed.
+| 	  |  3. Collaboration opportunities
+| 	  |  Aim to produce 1 slide to present major points.
 | **15.30 - 16.00** 	  | Report back major themes from break-outs, wrap-up and next steps                        
 | **16.00 +** 	  | Joint reception, drinks and snacks in the main room
 
