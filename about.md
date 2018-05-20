@@ -25,7 +25,7 @@ The expected schedule is as follows:
 | **10.00 - 11.00** 	  | Keynote speaker, David De Roure, University of Oxford “Interdisciplinarity, ethics, and the study of social machines”
 | **11.00 - 12.10** 	  | Paper session.
 | 	  | Kieron O’ Hara, University of Southampton / Winchester. “Social Machines and the Virtues”
-| 	  | Claudia Pagliari, University of Edinburgh, TBD
+| 	  | Claudia Pagliari, University of Edinburgh, "The Meaning and Misuse of Identify in the Social Machine Age"
 | 	  | Reuben Binns, University of Oxford. “Is There Any Room for Group Privacy?”
 | 	  | Aastha Madaan, University of Southampton. “Exemplars of Cyberphysical Social Machines”
 | 	  | Q&A / Open Discussion with the speakers
