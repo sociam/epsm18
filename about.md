@@ -17,7 +17,7 @@ The goal of the event is to establish some of the ethical and legal parameters o
 
 ## Schedule
 The event takes place on **May 27th** and will be full day, with an open [call for papers](cfp.md), a keynote and a closing panel. 
-The expected schedule is as follows:
+The schedule is as follows:
 
 | **Time** 	            | **Activity**            	                
 |-----------------------|-------------------------------------	
@@ -51,6 +51,8 @@ He is a Fellow of the British Computer Society and the Institute of Mathematics 
 
 ## Location
 Vrije Universiteit Amsterdam, De Boelelaan 1105, 1081 HV Amsterdam.
+
+Room: BelleVUe 1H-24
 
 [https://websci18.webscience.org/index.php/how-to-get-at-vu-amsterdam/](https://websci18.webscience.org/index.php/how-to-get-at-vu-amsterdam/)
 
